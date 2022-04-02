@@ -1,0 +1,12 @@
+{
+    "program_name_dir": "GSIP",
+    "data_dir": "GSIP",
+    "excel_data_file_name": "data.xlsx",
+    "all_certs_mail_merge_pdf": "",
+    "out_dir_name_for_split_pdfs": "",
+    "individual_file_suffix_1": "",
+    "individual_file_suffix_2": "",
+    "sheet_num": 0,
+    "run": 0,
+    "create_sheet_with_attachments_column": 0
+}
